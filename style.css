@@ -14,7 +14,7 @@ html{
 }
 
 #myCanvas {
-  border: 1px solid black;
+  border: 10px solid purple;
 }
 
 .container{
@@ -34,7 +34,7 @@ html{
 }
 
 h2{
-  color: black;
+  color: pink;
 /*   font-size: 10px; */
 }
 
